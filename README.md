@@ -135,4 +135,6 @@ http://<hosting-server-ip-address:8080>
 
 ![Video NFT Architecture Overview](./docs/VideoCoinNFTOverview.svg)
 
-
+# Enhancements
+Support for Solana
+Support for Flow
